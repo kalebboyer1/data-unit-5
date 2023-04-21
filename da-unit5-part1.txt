@@ -1,0 +1,64 @@
+﻿1.        
+Being able to speak the language is a must when in the workplace. The employee needs to have a clear accessible message, and proper formatted data visualization. Visual thinking & story telling skills are very important.
+
+
+Data Visualization - the techniques used to communicate data and information to an audience, such as visual objects, and visual display of data.
+
+
+Data communication - when visualizations use visual design to communicate a message clearly & effectively. Has an impact on the audience.
+
+
+2.        
+Order:
+The order in which people might interpret your graphs can help you be more efficient on how you make them.
+Hierarchy:
+Choosing the right parts to highlight in a graph will help guide people and will help contribute and support the same story.
+Relationships:
+Having the right narrative on your visualizations will help people remain on point and focused and have better clarity and impact from the visualization. 
+Convention:
+Keeping the composition of your visualization should be standard and should conform to convention.
+
+
+Having a better understanding of these concepts will help me create easy, understandable visualizations that are beneficial to anyone trying to comprehend the narrative.
+
+
+3.
+-Bar chart
+-stacked column/tree map
+-line graph
+-horizontal barchart
+-scatter plot 
+-countries or states can be colored or used with icons 
+-simple gauge
+-Table
+Knowing when to use which graphs will drastically help me get my point across and keep the graphs clean and readable.
+
+
+
+
+
+
+
+
+
+
+
+
+4.
+I think the statement refers to how well the visualization gets the point across. If done poorly it could be easy to “lie” and be misleading and if done properly it's easy to tell the “truth” or not be misleading.
+-Truncated graph - Y axis doesn't start at zero. Change it so the y axis starts at 0.
+-Pie charts - comparing different sized pie charts. Change it so all pie charts are the same size.
+-bar graph- with no scale. Change it so it has a corresponding scale that accurately shows the data.
+
+
+5.
+-clutter makes the audience stop, pause, read, and interpret the visualization. Easily distracted over time spent to understand what is being shown
+-lines, labels, titles, axis names
+
+
+-cleaning and making sure the axis labels don’t double explain what they are.
+-grid lines. When to use them and what color to have them be.
+-In the key you can use colors to help read the different values being compared.
+
+
+-using color will help the audience either understand the visualization effectively or help them get distracted easily.
